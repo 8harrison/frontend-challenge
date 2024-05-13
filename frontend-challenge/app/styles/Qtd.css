@@ -1,0 +1,38 @@
+.qtd-container {
+  width: 50px;
+  height: 19px;
+  align-self: center;
+  border-width: 0.3px;
+  border-radius: 4px;
+  border-color: #bfbfbf;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+
+.qtd-container button {
+  margin: 0px;
+  padding: 0px;
+  font-size: 10px;
+  width: 5px;
+  font-family: Montserrat;
+  font-weight: 400;
+}
+
+.qtd-container p {
+  margin: 0px;
+  height: 13px;
+  font-size: 10px;
+  align-self: center;
+  justify-self: center;
+  width: 5px;
+  font-family: Montserrat;
+  font-weight: 400;
+}
+
+.barra-meio {
+  height: 11.5px;
+  border-width: 0.2px;
+}/*# sourceMappingURL=Qtd.css.map */
